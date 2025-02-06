@@ -46,5 +46,5 @@ usatoday.com##body > article > div.gnt_ar_b > aside.gnt_m.gnt_x.gnt_x__bv
 yahoo.com##.top-\\[92px\\]
 yahoo.com##.sticky[class*="top-"]:has(style)
 
-!---porhhat.com-------
-pornhat.com##.top_spot
+!----dailymail.com------
+dailymail.co.uk##ad-slot
