@@ -47,4 +47,4 @@ yahoo.com##.top-\\[92px\\]
 yahoo.com##.sticky[class*="top-"]:has(style)
 
 !---porhhat.com-------
-pornhat.com##.top_spot
+pornhat.com##body > div.wrapper.pintour > div.head-wrapper.index-head > div.top_spot.mobile
