@@ -48,7 +48,14 @@ yahoo.com##.sticky[class*="top-"]:has(style)
 
 !----dailymail.com------
 dailymail.co.uk##ad-slot
-!---fortune.com---
+
+!------------------------------------------!
+!---fortune.com added on feb 17,2025---
 !---filter for homepage top ad space --
 fortune.com##.fiWNxs
+!---filter for homepage new list ad space --
+fortune.com##.ddsPZo
+!-------------------------------------------!
+
+
 
