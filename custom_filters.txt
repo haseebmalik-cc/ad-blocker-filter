@@ -1,4 +1,6 @@
+!------------------------------------------!
 !----Filters for coindesk.com------
+coindesk.com##.ah280px
 coindesk.com###highimpact-ad-container
 coindesk.com###highimpact:upward(1)
 coindesk.com###nativehp_mobile:upward(3)
@@ -8,7 +10,7 @@ coindesk.com###article_mobile_1:upward(2)
 ||prd.jwpltx.com^
 ||a.pub.network^
 ||bam.nr-data.net^
-!-----------------------------------
+!------------------------------------------!
 !----Filters for pornhub.com------
 pornhub.com##.premiumPromoBannerImage.js-premiumPromoBannerImage
 pornhub.com##.removeAdLink.promoBannerClassAnchor
