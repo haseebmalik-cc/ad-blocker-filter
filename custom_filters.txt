@@ -50,5 +50,5 @@ yahoo.com##.sticky[class*="top-"]:has(style)
 dailymail.co.uk##ad-slot
 !---fortune.com---
 !---filter for homepage top ad space --
-fortune.com###Leaderboard0:upward(1)
+fortune.com##.fiWNxs
 
