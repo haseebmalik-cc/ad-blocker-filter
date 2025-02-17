@@ -53,9 +53,12 @@ dailymail.co.uk##ad-slot
 !---fortune.com added on feb 17,2025---
 !---filter for homepage top ad space --
 fortune.com##.fiWNxs
-!---filter for homepage new list ad space --
+!---filter for homepage news list ad space --
 fortune.com##.ddsPZo
 !-------------------------------------------!
 
-
-
+!------------------------------------------!
+!---buzzfeed.com added on feb 17,2025---
+!---filter for homepage news list ad space --
+buzzfeed.com##.ad-placeholder
+!-------------------------------------------!
