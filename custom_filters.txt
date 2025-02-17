@@ -11,6 +11,8 @@ coindesk.com###article_mobile_1:upward(2)
 ||a.pub.network^
 ||bam.nr-data.net^
 !------------------------------------------!
+
+!------------------------------------------!
 !----Filters for pornhub.com------
 pornhub.com##.premiumPromoBannerImage.js-premiumPromoBannerImage
 pornhub.com##.removeAdLink.promoBannerClassAnchor
@@ -20,8 +22,10 @@ pornhub.com##.clearfix.watchpageAd
 pornhub.com##.videoWrapper.positionRelative > .adsbytrafficjunky
 /pics/promobanners/000/006/381/1735071423.jpg
 ||landing.letsdoeit.com^
-!----------------------------------------
-!----Missing filters for Ad blocker testing sites
+!------------------------------------------!
+
+!------------------------------------------!
+!Missing filters for Ad blocker testing sites
 ||hotjar.com^
 ||sentry-cdn.com^
 ||js.sentry-cdn.com^
@@ -36,20 +40,27 @@ pornhub.com##.videoWrapper.positionRelative > .adsbytrafficjunky
 ||ads-twitter.com^
 ||samsung-com.112.2o7.ne^
 ||fonts.gstatic.com^
+!------------------------------------------!
+
+!------------------------------------------!
 !---youporn.com ,tube8.com---
 youporn.com,tube8.com###mainWrapper > :nth-child(2)
 ||static.trafficjunky.com^
+!------------------------------------------!
+
+!------------------------------------------!
 !--usatoday.com---
 usatoday.com##aside[aria-label="advertisement"]:upward(1)
 usatoday.com##body > main > aside
 usatoday.com##body > article > aside
 usatoday.com##body > article > div.gnt_ar_b > aside.gnt_m.gnt_x.gnt_x__bv
+!------------------------------------------!
+
+!------------------------------------------!
 !--Yahoo.com---
 yahoo.com##.top-\\[92px\\]
 yahoo.com##.sticky[class*="top-"]:has(style)
-
-!----dailymail.com------
-dailymail.co.uk##ad-slot
+!------------------------------------------!
 
 !------------------------------------------!
 !---fortune.com added on feb 17,2025---
