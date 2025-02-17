@@ -75,3 +75,9 @@ fortune.com##.ddsPZo
 !---filter for homepage news list ad space --
 buzzfeed.com##.ad-placeholder
 !-------------------------------------------!
+
+!------------------------------------------!
+!---redtube.com added on feb 17,2025---
+!---filter for homepage top ad space --
+redtube.com##.tm_ad_header
+!-------------------------------------------!
