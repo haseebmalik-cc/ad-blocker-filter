@@ -39,7 +39,6 @@ pornhub.com##.videoWrapper.positionRelative > .adsbytrafficjunky
 ||adcolony.com^
 ||ads-twitter.com^
 ||samsung-com.112.2o7.ne^
-||fonts.gstatic.com^
 !------------------------------------------!
 
 !------------------------------------------!
