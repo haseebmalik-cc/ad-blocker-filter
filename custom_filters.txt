@@ -57,7 +57,7 @@ usatoday.com##body > article > div.gnt_ar_b > aside.gnt_m.gnt_x.gnt_x__bv
 
 !------------------------------------------!
 !--Yahoo.com---
-yahoo.com##.top-\\[92px\\]
+!--updated on 07 March, 2025
 yahoo.com##.sticky[class*="top-"]:has(style)
 !------------------------------------------!
 
