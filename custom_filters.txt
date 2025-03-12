@@ -80,3 +80,9 @@ buzzfeed.com##.ad-placeholder
 !---filter for homepage top ad space --
 redtube.com##.tm_ad_header
 !-------------------------------------------!
+
+!------------------------------------------!
+!---youtube.com added on march 12,2025---
+!---filter for homepage top ad space --
+youtube.com,m.youtube.com##ytm-companion-ad-renderer
+!-------------------------------------------!
