@@ -85,4 +85,5 @@ redtube.com##.tm_ad_header
 !---youtube.com added on march 12,2025---
 !---filter for homepage top ad space --
 youtube.com,m.youtube.com##ad-slot-renderer
+youtube.com,m.youtube.com##ytm-companion-slot
 !-------------------------------------------!
