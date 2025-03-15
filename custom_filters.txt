@@ -86,4 +86,5 @@ redtube.com##.tm_ad_header
 !---filter for homepage top ad space --
 youtube.com,m.youtube.com##ad-slot-renderer
 youtube.com,m.youtube.com##ytm-companion-slot
+youtube.com,m.youtube.com##.video-ads
 !-------------------------------------------!
